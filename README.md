@@ -6,6 +6,7 @@
 
 
 This project has been made to get information about expats living in Sagoin.
+-----------------------------
 
 The outcome of this project is to discover:
 1. How many expats living in different districts;
